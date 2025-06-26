@@ -1,1 +1,2 @@
-print("hello rishmal")
+print("hello")
+print("Dhanushka")
